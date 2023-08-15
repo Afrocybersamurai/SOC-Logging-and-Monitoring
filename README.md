@@ -24,11 +24,7 @@
 - VM Linux Ubuntu 20.12
 
 Click below:
-<details close>
 
-<div>
-
-</summary>
 
 #### In this lab, we will use 2 GeoIP files which will help us correlate IP addresses to figure out where the attacks originated from. <b>
 
@@ -131,11 +127,6 @@ Click below:
 - It should look something like this:
 
 ![image](https://user-images.githubusercontent.com/112146207/231058252-685c7062-26c7-427d-970d-34c9fe2d851a.png)
-<details close>
-
----
-
-</summary>
 
 In this section, we will create a Linux VM, and we're going to configure the Windows security event logs from our Windows machine, and the syslog logs from our Linux machine to send to our log analytics workspace. In addition to the VM, we will also configure logging for the NSG (AKA the mini firewalls) and we're going to send flow logs into the log analytics workspace. 
 
@@ -194,11 +185,7 @@ We will now create some NSG flow logs
 We will do the same thing for our Linux VM 
   
 ![image](https://user-images.githubusercontent.com/112146207/232343651-7cad24f6-e116-4672-ae02-af80285dd4ec.png)
-<details close>
 
----
-
-</summary>
  
 In this section, we will enable diagnostic settings for both NSGs 
   
@@ -329,11 +316,6 @@ We can see the times I tried to log in using an incorrect user and password
 We will now check the failed RDP failures 
   
 ![image](https://user-images.githubusercontent.com/112146207/232677531-d8b20f1d-f561-4105-9585-70e24baae515.png)
-<details close>
-
----
-
-</summary>
 
 In this section, we will bring tenant-level logs from Azure Active Directory 
  
