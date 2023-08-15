@@ -1,5 +1,3 @@
-# SOC-Logging-and-Monitoring
-
 # Logging and Monitoring
 
 ## Objectives to create our Logging and Monitoring System
