@@ -84,7 +84,7 @@ Click below:
 
 ![image](https://user-images.githubusercontent.com/112146207/231035113-37153ffd-7b20-4039-89e0-32fa03063cd6.png)
 
-![LOGGING AND MONTIROING PROG](https://user-images.githubusercontent.com/109401839/233307421-5f4df4ab-a0ce-4f64-a485-891587567414.png)
+![LOGGING AND MONTIROING PROG](https://user-images.githubusercontent.com/136266716/260765351-bc7d4dc0-8ec5-41c0-9f2e-54f89941b9a8.jpg)
 
 - Our SIEM will look into our work analytics workspace where it will collect, analyze and identify logs in real-time. 
 
