@@ -21,6 +21,7 @@
 - VM Windows 10 PRO (21H2)
 - VM Linux Ubuntu 20.12
 
+[Continuation from our previous work](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
 Click below:
 
 
