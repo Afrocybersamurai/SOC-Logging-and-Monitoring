@@ -21,8 +21,7 @@
 - VM Windows 10 PRO (21H2)
 - VM Linux Ubuntu 20.12
 
-[Continuation from our previous work](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
-Click below:
+Click for previous Part:[CloudSoc prereqs](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
 
 
 #### In this lab, we will use 2 GeoIP files which will help us correlate IP addresses to figure out where the attacks originated from. <b>
