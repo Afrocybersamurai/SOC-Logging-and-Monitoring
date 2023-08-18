@@ -21,7 +21,7 @@
 - VM Windows 10 PRO (21H2)
 - VM Linux Ubuntu 20.12
 
-Click for previous Part:[CloudSoc prereqs](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
+Click for previous Part: [CloudSoc prereqs](https://github.com/Afrocybersamurai/CloudSoC-prereqs)
 
 
 #### In this lab, we will use 2 GeoIP files which will help us correlate IP addresses to figure out where the attacks originated from. <b>
@@ -425,3 +425,5 @@ First, we will create a Key Vault Instance
 - Generate some Logs for Key Vault by reading this secret within the Azure Portal
 
 > Observe the Logs (they may take a moment to appear) -  Use the KQL Query Cheat Sheet
+> 
+Click for next Part: [MS Sentinel Configuration](https://github.com/Afrocybersamurai/MS-Sentinel-Config/tree/main)
